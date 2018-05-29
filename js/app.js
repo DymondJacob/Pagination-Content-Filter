@@ -3,7 +3,7 @@
 
 //creating the code for Globals
 var studentItems = $('.student-item');
-var studentSearch ='<div class="student-search"><input id="search" placeholder="Search for students..."><button>Search</button></div>';
+var studentSearch ='<div class="student-search"><input id="search" placeholder="Student Search..."><button>Search</button></div>';
 var pagination ='<div class="pagination"><ul></ul></div>';
 var studentList = pages(studentItems)
 
